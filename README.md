@@ -82,7 +82,11 @@ npm run build
 Interactive API documentation: `http://localhost:8000/docs`  
 Health check: `http://localhost:8000/api/v1/health`
 
-Main routes: `/api/v1/auth/guest`, `/api/v1/auth/me`, `/api/v1/analysis/{analyze,history}`, `/api/v1/dashboard/stats`, `/api/v1/jobs/analyze`, `/api/v1/resume/{generate-summary,optimize-bullet}`, and `/api/v1/reports/{analysis_id}/pdf`.
+Main routes: `/api/v1/auth/guest`, `/api/v1/auth/me`, `/api/v1/analysis/{analyze,history}`, `/api/v1/dashboard/stats`, `/api/v1/jobs/analyze`, `/api/v1/resume/{generate-summary,optimize-bullet}`, and `/api/v1/reports/{analysis_id}/pdf`. 
+
+## Screenshot
+<img width="960" height="613" alt="image" src="https://github.com/user-attachments/assets/828d7f68-39d6-4eeb-8827-596bfac51c79" />
+
 
 ## Limitations
 
